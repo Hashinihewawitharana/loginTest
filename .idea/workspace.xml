@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f2fff0f-73ec-4040-80d1-6be728c2586e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vAeitzku2ZgE2qYmM0tgs7MPFS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.LoginAutomationTest.executor": "Run",
+    "TestNG.LoginAutomationTest.negativePasswordTest.executor": "Run",
+    "TestNG.LoginAutomationTest.negativeUsernameTest.executor": "Run",
+    "TestNG.LoginOrangeHRMTest (1).executor": "Run",
+    "TestNG.LoginOrangeHRMTest.LoginTest.executor": "Run",
+    "TestNG.LoginOrangeHRMTest.executor": "Run",
+    "TestNG.LoginOrangeHRMTest.negativePasswordTest.executor": "Run",
+    "TestNG.LoginOrangeHRMTest.negativeUsernameTest (1).executor": "Run",
+    "TestNG.LoginOrangeHRMTest.negativeUsernameTest.executor": "Run",
+    "TestNG.LoginOrangeHRMTest.positiveLoginTest (1).executor": "Run",
+    "TestNG.LoginOrangeHRMTest.positiveLoginTest (2).executor": "Run",
+    "TestNG.LoginOrangeHRMTest.positiveLoginTest.executor": "Run",
+    "TestNG.LoginOrangeHRMTest.testPositiveLogin.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/seleniumDemo/Login"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.LoginAutomationTest.negativeUsernameTest">
+    <configuration name="LoginAutomationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Login" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginAutomationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginAutomationTest.negativePasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Login" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginAutomationTest" />
+      <option name="METHOD_NAME" value="negativePasswordTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginAutomationTest.negativeUsernameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Login" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginAutomationTest" />
+      <option name="METHOD_NAME" value="negativeUsernameTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginAutomationTest.positiveLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Login" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginAutomationTest" />
+      <option name="METHOD_NAME" value="positiveLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Login" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginAutomationTest.negativeUsernameTest" />
+        <item itemvalue="TestNG.LoginAutomationTest" />
+        <item itemvalue="TestNG.LoginAutomationTest.negativePasswordTest" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginAutomationTest.positiveLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f2fff0f-73ec-4040-80d1-6be728c2586e" name="Changes" comment="" />
+      <created>1743592438519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743592438519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LoginAutomationTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LoginAutomationTest.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
